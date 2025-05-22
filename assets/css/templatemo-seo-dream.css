@@ -1721,9 +1721,9 @@ responsive
     color: #2a2a2a;
     line-height: 72px;
     background: #FA9D4D;
-    background: -webkit-linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
-    background: -moz-linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
-    background: linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%) !important;
+    background: -moz-linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%) !important;
+    background: linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
 }
